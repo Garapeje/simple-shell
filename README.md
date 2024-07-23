@@ -1,3 +1,3 @@
 # simple-shell
 
-## Pakai script ini untuk di pakai di scriot base64_decode
+## Pakai script ini untuk di pakai di script base64_decode dan diubah dulu dari raw ke base64 decode
